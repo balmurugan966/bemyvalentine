@@ -1,0 +1,168 @@
+{
+  "names": {
+    "sender": "Bubloo",
+    "receiver": "Bammu❤️"
+  },
+  "theme": {
+    "primaryColor": "#b57edc",
+    "secondaryColor": "#8a4fff",
+    "accentColor": "#f7c6e0",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine, wifey?",
+    "subtitle": "You already said yes for life… this is just the annual confirmation 😉",
+    "yesButtonText": "ALWAYS YES ❤️",
+    "noButtonText": "TRY AGAIN 💔",
+    "successMessage": "💖 YAYYYYY, MY WIFE!!! 💖",
+    "successSubtitle": "Bammu, marrying me was already the best decision… this is just a reminder.❤️😘",
+    "giftsTitle": "💝 Your Valentine Surprises 💝",
+    "giftsSubtitle": "Click here, wifey… your spoiled life continues 😉",
+    "songsTitle": "Our Love Still Sounds Like This!🎵",
+    "photosTitle": "Our Beautiful Memories Together!📸",
+    "letterTitle": "To My Beautiful Wife!❤️",
+    "prosConsTitle": "Why You Should Keep Choosing Me as Your Husband ❤️",
+    "prosConsSubtitle": "Because one lifetime with me isn’t enough 😉"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg",
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "caption": "Just two tiny dots in a big world… You were the one who saved me from hell,and the moment my life became more beautiful."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpg",
+      "caption": "In that sacred moment, I tied not just a thaali… but my whole life to yours."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "caption": "Music, laughter, and us"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpg",
+      "caption": "That smile… my favorite view"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpg",
+      "caption": "Our endless heart-to-heart talks"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpg",
+      "caption": "My peace, my comfort, my home"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I can’t cook, but I’ll happily be your lifetime Swiggy sponsor."
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif",
+      "text": "Unlimited comfort, care, and forehead kisses"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… especially when my wife is talking"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(wife privilege 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer… because my wife deserves the best photos 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Unlimited live songs… only for my beautiful wife 😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Oru Paathi Kadhavu",
+      "duration": "5:35",
+      "album": "Thaandavam",
+      "artist": "G. V. Prakash Kumar",
+      "cover": "/src/assets/album-covers/Oru-Paathi-Kadhavu.png",
+      "audio": "/src/assets/songs/Oru-Paathi-Kadhavu.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Vazhithunaiye",
+      "duration": "3:38",
+      "album": "Dragon",
+      "artist": "Leon James",
+      "cover": "/src/assets/album-covers/dragon.png",
+      "audio": "/src/assets/songs/Vazhithunaiye.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Munbe Vaa",
+      "duration": "05:57",
+      "album": "Sillunu Oru Kaadhal",
+      "artist": "Vaali",
+      "cover": "/src/assets/album-covers/Munbe_Vaa.png",
+      "audio": "/src/assets/songs/Munbe_Vaa.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Onakkaga Poranthaenae",
+      "duration": "4:52",
+      "album": "Pannaiyarum Padminiyum.",
+      "artist": "ustin Prabhakaran",
+      "cover": "/src/assets/album-covers/Onakkaga_Poranthaenae.png",
+      "audio": "/src/assets/songs/Onakkaga-Poranthaenae.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Hey Minnale",
+      "duration": "3:49",
+      "album": "amaran",
+      "artist": "G.V. Prakash Kumar",
+      "cover": "/src/assets/album-covers/Hey_Minnale.png",
+      "audio": "/src/assets/songs/Hey_Minnale.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Wife,",
+    "content": [
+      "Falling in love with you was the best surprise of my life, but marrying you was the best decision I ever made.",
+      "Every day with you feels warmer, brighter, and more meaningful. You are not just my partner, you are my peace, my happiness, and my home.",
+      "No matter how many years pass, I promise to keep choosing you, loving you, and annoying you just the right amount."
+    ],
+    "signature": "Forever yours,\nBubloo"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
